@@ -35,17 +35,17 @@ let porto = [
     onVisit: '',
     onGithub: '',
   },
-  {
-    id: 4,
-    title: 'judul 4',
-    desc: 'ini desk 4',
-    typeproject: 'Personal Project',
-    keyachieve: 'Key Achievement : - Mempelajari PHP \n - Mempelajari HTML',
-    tech: 'HTML, CSS, PHP',
-    imageUrl: '/images/foto.jpeg',
-    onVisit: '',
-    onGithub: '',
-  },
+  // {
+  //   id: 4,
+  //   title: 'judul 4',
+  //   desc: 'ini desk 4',
+  //   typeproject: 'Personal Project',
+  //   keyachieve: 'Key Achievement : - Mempelajari PHP \n - Mempelajari HTML',
+  //   tech: 'HTML, CSS, PHP',
+  //   imageUrl: '/images/foto.jpeg',
+  //   onVisit: '',
+  //   onGithub: '',
+  // },
 ];
 
 function getAllPorto() {

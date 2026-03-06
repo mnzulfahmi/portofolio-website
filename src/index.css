@@ -29,7 +29,7 @@ body {
 }
 
 .items-container {
-  @apply flex flex-col justify-between w-full text-white space-y-6 md:flex-row md:space-y-0 md:space-x-4;
+  @apply flex flex-col w-full text-white space-y-6 md:flex-row md:space-y-0 md:space-x-4;
 }
 
 .item {
