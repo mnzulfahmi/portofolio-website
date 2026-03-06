@@ -14,8 +14,8 @@ function ProfileApp() {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
     <div className="hero-section">
-      <div className="profile-app text-white">
         <VantaComponent />
+      <div className="profile-app text-white">
         <header className="profile-app__header">
           <Navigation menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
         </header>
